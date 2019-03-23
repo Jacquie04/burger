@@ -1,11 +1,5 @@
-li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
-  }
-  
   .label {
-    font-weight: bold;
+    font-family: 'Margarine', cursive;
   }
   
   .create-update-form {
@@ -17,3 +11,19 @@ li {
   .form-group {
     margin-bottom: 5px;
   }
+
+#titlePage {
+  font-family: 'Bangers', cursive;
+}
+
+h2 {
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.button {
+  font-family: 'Indie Flower', cursive;
+}
+
+
+
+
