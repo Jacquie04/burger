@@ -1,27 +1,66 @@
-  .label {
+.label {
     font-family: 'Margarine', cursive;
   }
   
-  .create-update-form {
+#enter {
+display: inline-block;
+margin-right: 30px;
+}
+
+#eaten {
+display: inline-block;
+margin-left: 30px;
+}
+
+.jumbotron {
+background: none;
+color: white;
+}
+
+.create-update-form {
     padding: 5px;
     margin: 5px;
     background: aqua;
   }
   
-  .form-group {
+.form-group {
     margin-bottom: 5px;
   }
 
 #titlePage {
   font-family: 'Bangers', cursive;
+  color: white;
 }
 
 h2 {
   font-family: 'Gloria Hallelujah', cursive;
+  color: white;
 }
 
-.button {
+label {
+  color: white;
   font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+
+}
+
+#ca {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
+#submit {
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+  background-color: rgb(243, 42, 183);
+  color: white;
+  height: 50px;
+  width: 150px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
 }
 
 
